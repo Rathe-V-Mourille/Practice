@@ -1,2 +1,3 @@
-# test
-testing
+# Just Practice
+Personal Python and github practice using a gaggle of videos and book based resourses.
+If you're here, then you're probably in the wrong place...
